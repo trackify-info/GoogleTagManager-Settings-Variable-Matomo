@@ -1,0 +1,5 @@
+homepage: "https://www.trackify.info"
+documentation: "https://github.com/trackify-info/GoogleTagManager-WebTemplate-Matomo"
+versions:
+  - sha: e843c27be23a9106dd5978801e9891c632cd5fd8
+    changeNotes: Initial release
